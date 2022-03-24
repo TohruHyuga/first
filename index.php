@@ -1,4 +1,5 @@
 <?php header('Location: /index.html'); ?>
+<?php header('Location: /index.html'); ?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -20,10 +21,10 @@
             <table>
                 <tr>
                     
-                    <th id="link_1" abbr="トップ"><a href="#1">概要 /</a></th>
-                    <th id="link_2" abbr="歴史"><a href="#2">略歴・活動内容 /</a></th>
-                    <th id="link_3" abbr="活動"><a href="#3">会得スキル /</a></th>
-                    <th id="link_4" abbr="連絡"><a href="#3">お問い合わせ /</a></th>
+                    <th id="link_1" abbr="トップ"><a href="#1">概要</a></th>
+                    <th id="link_2" abbr="歴史"><a href="#2">略歴・活動内容</a></th>
+                    <th id="link_3" abbr="活動"><a href="#3">会得スキル</a></th>
+                    <th id="link_4" abbr="連絡"><a href="#3">お問い合わせ</a></th>
 
                 </tr>
             </table>
